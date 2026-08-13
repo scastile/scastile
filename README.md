@@ -28,7 +28,6 @@ I run [PaperLab](https://github.com/scastile/paperlab-library-platform) — a we
 
 **Reach me**
 
-- Email: `paperscratcher@gmail.com`
 - PaperLab: web design & AI audit studio for local businesses
 
 ---
