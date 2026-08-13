@@ -36,6 +36,7 @@ I run [PaperLab](https://github.com/scastile/paperlab-library-platform) — a we
 **Elsewhere**
 
 [![GitHub](https://img.shields.io/badge/GitHub-scastile-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/scastile)
+[![X](https://img.shields.io/badge/X-@shanecastile-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/shanecastile)
 
 </td>
 
