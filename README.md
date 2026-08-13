@@ -28,7 +28,7 @@ I run [PaperLab](https://github.com/scastile/paperlab-library-platform) — a we
 
 **Reach me**
 
-- PaperLab: web design & AI audit studio for local businesses
+- PaperLab: [paperlab.xyz](https://paperlab.xyz) — web design & AI audit studio for local businesses
 
 ---
 
